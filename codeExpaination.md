@@ -1,4 +1,4 @@
-Certainly! Let's walk through the flow of the code in the `solution.py` script with examples. I'll explain each part and demonstrate how it works:
+rCertainly! Let's walk through the flow of the code in the `solution.py` script with examples. I'll explain each part and demonstrate how it works:
 
 1. **Creating Employee Objects**:
 
@@ -55,7 +55,7 @@ Certainly! Let's walk through the flow of the code in the `solution.py` script w
    ```
 5. **Example Usage**:
 
-   - When you run the script (`python faker_data.py`), it generates employee data and creates the specified JSON files.
+   - When you run the script (`python solution.py`), it generates employee data and creates the specified JSON files.
    - Check the generated files to see the employee details.
 
-Remember that the Faker library provides realistic default values for attributes like names, emails, and business units. You can customize the code further to suit your specific needs. 😊
+Faker library provides realistic default values for attributes like names, emails, and business units. You can customize the code further to suit your specific needs.

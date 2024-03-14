@@ -67,7 +67,7 @@ The function should be able to do it for
 2. Run the script:
 
    ```bash
-   python faker_data.py
+   python solution.py
    ```
 3. Check the generated JSON files:
 
